@@ -1,0 +1,16 @@
+{
+  "name": "readmecreator",
+  "version": "1.0.0",
+  "description": "Readme Creator IA",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+
+  },
+  "author": "John Costa",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5"
+  }
+}
